@@ -119,6 +119,7 @@
 			font-size: 16px;
 			margin: 1px 1px;
 			cursor: pointer;
+			border-radius: 10px;
 		}
 		.about {
 			height: 300px;
@@ -245,7 +246,7 @@
 		</div>
 		<!-- All Right Resourved-->
 		<div class="allright col-md-11">
-			<h3>All Right Resourved</h3>
+			<h3>Copyright © 2021 All rights reserved</h3>
 		
 		</div>
 	</div>
